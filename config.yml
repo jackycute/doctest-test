@@ -1,0 +1,13 @@
+docs:
+  docs/**/*:
+  - source/**/*
+  - src/**/*
+  - lib/**/*
+  - test/**/*
+  - packages/**/*
+  README.md:
+  - src/**/*
+  - lib/**/*
+  - source/**/*
+  - test/**/*
+  - packages/**/* 
